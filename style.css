@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'TT Hoves';
+  src: url('Fonts/TTHoves-Medium.woff2') format('woff2'),
+       url('Fonts/TTHoves-Medium.woff') format('woff'),
+       url('Fonts/TTHoves-Medium.ttf') format('truetype'),
+       url('Fonts/TTHoves-Medium.eot') format('eot');
+}

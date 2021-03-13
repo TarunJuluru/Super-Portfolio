@@ -9,6 +9,6 @@
 
 
   * {
-    font-family: 'TT Hoves' sans-serif;
-    font-style: Medium
+    font-family: 'TT Hoves' sans-serif !important;
+    font-style: Medium !important;
   }
